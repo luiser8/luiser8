@@ -1,6 +1,6 @@
 # ¡Hola! Soy @luiser8 👨💻
 
-🚀 Desarrollador Backend apasionado por arquitecturas escalables y código limpio
+🚀 Desarrollador apasionado por arquitecturas escalables y código limpio
 
 ## 🌍 Sobre mí
 - Soy Desarrollador de Software de Venezuela 🇻🇪
