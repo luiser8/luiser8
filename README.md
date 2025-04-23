@@ -1,4 +1,4 @@
-# ¡Hola! Soy Luis Rondón (@luiser8) 👨💻
+# ¡Hola! Soy Luis Eduardo Rondón (@luiser8) 👨💻
 
 🚀 Desarrollador Full Stack especializado en arquitecturas escalables y código limpio
 
