@@ -1,12 +1,13 @@
-# ¡Hola! Soy @luiser8 👨💻
+# ¡Hola! Soy Luis Rondón (@luiser8) 👨💻
 
-🚀 Desarrollador apasionado por arquitecturas escalables y código limpio
+🚀 Desarrollador Full Stack especializado en arquitecturas escalables y código limpio
 
 ## 🌍 Sobre mí
-- Soy Desarrollador de Software de Venezuela 🇻🇪
-- Especialista en C#, .NET, Node.js y Nest.js
-- Conocimientos en GNU/Linux
-- Creador de proyectos personales y colaborador en open source
+- 🧑💻 Desarrollador de Software con 7+ años de experiencia | Venezuela 🇻🇪
+- ⭐ **Especialista principal:** C# .NET
+- 🛠 **Stack secundario:** JavaScript, Typescript, Node.js, Nest.js, React.js y Python Flask
+- 🐧 Conocimientos avanzados en sistemas GNU/Linux
+- 🔓 Colaborador activo en proyectos open source
 
 ## 🛠️ Tech Stack
 - 💻 **Lenguajes:** C#, JavaScript, TypeScript
@@ -23,7 +24,6 @@
 - Trabajando en mejorar mis habilidades en arquitectura de software
 - Ademas de mejorar mi proyecto actual personal (Glucose Tracker)
 - Aprendiendo Apis con Python Flask, Go y Rust
-- Desarrollando proyectos personales con .NET Core y Python Flask
 
 ## 📫 Conéctate conmigo
 - [Twitter](https://twitter.com/luiser8) 🐦
