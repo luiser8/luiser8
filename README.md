@@ -30,7 +30,7 @@
 - Aprendiendo APIs con Python Flask, Go y Rust
 
 ## 📫 Conéctate conmigo
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/luiser8) 🐦
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/luiserdev) 🐦
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiser8) 💼
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/luiser8) 👨💻
 - ✉️ leduardo.rondon@gmail.com
