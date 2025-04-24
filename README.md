@@ -21,7 +21,7 @@
 
 ## 💡 Experiencia Profesional
 - 7+ años desarrollando aplicaciones de alta demanda
-- He sido parte de equipos técnicos en proyectos internacionales
+- He sido parte de equipos técnicos en proyectos Internacionales
 - Experiencia en industrias: Educación, Salud y E-commerce
 
 ## 🌱 Actualmente
