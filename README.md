@@ -1,6 +1,6 @@
 # ¡Hola! Soy Luis Eduardo Rondón (@luiser8) 👨💻
 
-🚀 Desarrollador Full Stack especializado en arquitecturas escalables y código limpio
+🚀 Desarrollador especializado en arquitecturas escalables y código limpio
 
 ## 🌍 Sobre mí
 - 🧑💻 Desarrollador de Software con 7+ años de experiencia | Venezuela 🇻🇪
@@ -24,19 +24,8 @@
 - He sido parte de equipos técnicos en proyectos Internacionales
 - Experiencia en industrias: Educación, Salud y E-commerce
 
-## 🌱 Actualmente
-- Trabajando en mejorar mis habilidades en arquitectura de software
-- Además de mejorar mi proyecto actual personal (Glucose Tracker)
-- Aprendiendo APIs con Python Flask, Go y Rust
-
 ## 📫 Conéctate conmigo
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/luiserdev) 🐦
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiser8) 💼
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/luiser8) 👨💻
 - ✉️ leduardo.rondon@gmail.com
-
-## ⚡ Datos curiosos
-- 🏖️ Voy a la playa en mi tiempo libre
-- ⚽ Fanático del deporte y actividad física
-- ☕ Adicto al café de especialidad
-- 📚 Me encanta aprender nuevas tecnologías
