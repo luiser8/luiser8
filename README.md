@@ -1,6 +1,6 @@
 # ¡Hola! Soy Luis Eduardo Rondón (@luiser8) 👨💻
 
-🚀 Desarrollador especializado en arquitecturas escalables y código limpio
+🚀 Desarrollador Full Stack especializado en arquitecturas escalables y código limpio
 
 ## 🌍 Sobre mí
 - 🧑💻 Desarrollador de Software con 7+ años de experiencia | Venezuela 🇻🇪
@@ -18,11 +18,6 @@
 - 🛢️ **Bases de datos:** MongoDB, SQL Server, PostgreSQL, MySQL, Redis
 - ☁️ **Cloud:** Azure
 - 🛠️ **Herramientas:** Docker, Git, CI/CD
-
-## 💡 Experiencia Profesional
-- 7+ años desarrollando aplicaciones de alta demanda
-- He sido parte de equipos técnicos en proyectos Internacionales
-- Experiencia en industrias: Educación, Salud y E-commerce
 
 ## 📫 Conéctate conmigo
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/luiserdev) 🐦
