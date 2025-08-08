@@ -5,7 +5,7 @@
 ## 🌍 Sobre mí
 - 🧑💻 Desarrollador de Software con 7+ años de experiencia | Venezuela 🇻🇪
 - ⭐ **Especialista principal:** C# .NET
-- 🛠 **Stack secundario:** Node.js, Nest, React
+- 🛠 **Stack secundario:** Node.js, NestJS, React
 - 🐧 Conocimientos avanzados en sistemas GNU/Linux
 - 🔓 Colaborador activo en proyectos open source
 
