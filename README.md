@@ -1,11 +1,11 @@
 # ¡Hola! Soy Luis Eduardo Rondón (@luiser8) 👨💻
 
-🚀 Desarrollador especializado en .NET (C#) y JavaScript.
+🚀 Desarrollador especializado en .NET (C#)
 
 ## 🌍 Sobre mí
 - 🧑💻 Desarrollador de Software con 7+ años de experiencia | Venezuela 🇻🇪
 - ⭐ **Especialista principal:** C# .NET
-- 🛠 **Stack secundario:** Node.js, NestJS, React
+- 🛠 **Stack secundario:** JavaScript, TypeScript, Node.js, NestJS, React y Python
 - 🐧 Conocimientos avanzados en sistemas GNU/Linux
 - 🔓 Arquitecturas escalables y código limpio
 
