@@ -1,13 +1,13 @@
 # ¡Hola! Soy Luis Eduardo Rondón (@luiser8) 👨💻
 
-🚀 Desarrollador especializado en arquitecturas escalables y código limpio
+🚀 Desarrollador especializado en .NET (C#) y JavaScript.
 
 ## 🌍 Sobre mí
 - 🧑💻 Desarrollador de Software con 7+ años de experiencia | Venezuela 🇻🇪
 - ⭐ **Especialista principal:** C# .NET
 - 🛠 **Stack secundario:** Node.js, NestJS, React
 - 🐧 Conocimientos avanzados en sistemas GNU/Linux
-- 🔓 Colaborador activo en proyectos open source
+- 🔓 Arquitecturas escalables y código limpio
 
 ## 💻 Lenguajes Principales
 - ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) 
