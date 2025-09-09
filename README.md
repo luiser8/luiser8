@@ -3,9 +3,9 @@
 🚀 Desarrollador especializado en .NET (C#)
 
 ## 🌍 Sobre mí
-- 🧑💻 Desarrollador de Software con 7+ años de experiencia | Venezuela 🇻🇪
+- 🧑💻 Desarrollador de Software con +7 años de experiencia | Venezuela 🇻🇪
 - ⭐ **Especialista principal:** C# .NET
-- 🛠 **Stack secundario:** JavaScript, TypeScript, Node.js, NestJS, React y Python
+- 🛠 **Stack secundario:** JavaScript, TypeScript, Node.js, NestJS, React, Vue.js y Python
 - 🐧 Conocimientos avanzados en sistemas GNU/Linux
 - 🔓 Arquitecturas escalables y código limpio
 
